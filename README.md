@@ -50,7 +50,7 @@ This project implements a **greedy algorithm** to solve a driver-to-ride assignm
 
 ## 📦 Example Command
 ```bash
-node scheduler.js
+npm start
 ```
 
 ---
