@@ -1,0 +1,50 @@
+[
+  {
+    "driverId": "driver1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "city": "Shlomo, Hadera",
+    "mainPhone": "0501111111",
+    "status": "active",
+    "licenceDegree": ["B"],
+    "numberOfSeats": 50,
+    "fuelCost": 2.5,
+    "city_coords": [32.4323641, 34.9142005]
+  },
+  {
+    "driverId": "driver2",
+    "firstName": "Johnii",
+    "lastName": "Doiie",
+    "city": "Alon, Netanya",
+    "mainPhone": "0502222222",
+    "status": "active",
+    "licenceDegree": ["B"],
+    "numberOfSeats": 50,
+    "fuelCost": 2.5,
+    "city_coords": [32.326052510004274, 34.86016966327906]
+  },
+  {
+    "driverId": "driver3",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "city": "Derekh HaBanim, Pardes Hanna",
+    "mainPhone": "0503333333",
+    "status": "active",
+    "licenceDegree": ["B", "D"],
+    "numberOfSeats": 19,
+    "fuelCost": 2.0,
+    "city_coords": [32.4764174, 34.9779457]
+  },
+  {
+    "driverId": "driver4",
+    "firstName": "Tzach",
+    "lastName": "aaa",
+    "city": "Elram, Hadera",
+    "mainPhone": "0504444444",
+    "status": "active",
+    "licenceDegree": ["B"],
+    "numberOfSeats": 50,
+    "fuelCost": 2.5,
+    "city_coords": [32.428709, 34.9145637]
+  }
+]

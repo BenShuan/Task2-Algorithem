@@ -1,0 +1,223 @@
+[
+
+  {
+    "_id": "ride1",
+    "date": "2025-03-11",
+    "startTime": "06:45",
+    "endTime": "07:05",
+    "startPoint": "Givat Bilu, Hadera",
+    "endPoint": "Yoseftal, Hadera",
+    "numberOfSeats": 4,
+    "startPoint_coords": [32.4440992, 34.9240281],
+    "endPoint_coords": [32.4367737, 34.9270303]
+  },
+  {
+    "_id": "ride2",
+    "date": "2025-03-10",
+    "startTime": "07:10",
+    "endTime": "07:35",
+    "startPoint": "Brandeis, Hadera",
+    "endPoint": "Bialik, Hadera",
+    "numberOfSeats": 50,
+    "endPoint_coords": [32.4329799, 34.9103811],
+    "startPoint_coords": [32.4245037, 34.9221828]
+  },
+  {
+    "_id": "ride3",
+    "date": "2025-03-10",
+    "startTime": "07:20",
+    "endTime": "07:40",
+    "startPoint": "Shlomo, Hadera",
+    "endPoint": "Givat Bilu, Hadera",
+    "numberOfSeats": 14,
+    "endPoint_coords": [32.4440992, 34.9240281],
+    "startPoint_coords": [32.4323641, 34.9142005]
+  },
+  {
+    "_id": "ride4",
+    "date": "2025-03-10",
+    "startTime": "07:30",
+    "endTime": "07:50",
+    "startPoint": "Shlomo, Hadera",
+    "endPoint": "Emek Hefer Industrial Park, Emek Hefer",
+    "numberOfSeats": 4,
+    "startPoint_coords": [32.4323641, 34.9142005],
+    "endPoint_coords": [32.4013587, 34.89655419335027]
+  },
+  {
+    "_id": "ride5",
+    "date": "2025-03-10",
+    "startTime": "07:45",
+    "endTime": "08:05",
+    "startPoint": "Yoseftal, Hadera",
+    "endPoint": "Alon, Netanya",
+    "numberOfSeats": 4,
+    "startPoint_coords": [32.4367737, 34.9270303],
+    "endPoint_coords": [32.326052510004274, 34.86016966327906]
+  },
+  {
+    "_id": "ride6",
+    "date": "2025-03-10",
+    "startTime": "08:00",
+    "endTime": "08:20",
+    "startPoint": "Givat Bilu, Hadera",
+    "endPoint": "Atzmaut, Pardes Hanna",
+    "numberOfSeats": 50,
+    "startPoint_coords": [32.4440992, 34.9240281],
+    "endPoint_coords": [32.4712353, 34.9730174]
+  },
+  {
+    "_id": "ride7",
+    "date": "2025-03-10",
+    "startTime": "08:10",
+    "endTime": "08:30",
+    "startPoint": "Kinneret, Netanya",
+    "endPoint": "Elram, Hadera",
+    "numberOfSeats": 19,
+    "endPoint_coords": [32.428709, 34.9145637],
+    "startPoint_coords": [32.2903518, 34.8530409]
+  },
+  {
+    "_id": "ride8",
+    "date": "2025-03-10",
+    "startTime": "08:20",
+    "endTime": "08:40",
+    "startPoint": "Kinneret, Netanya",
+    "endPoint": "Kinneret, Netanya",
+    "numberOfSeats": 14,
+    "startPoint_coords": [32.2903518, 34.8530409],
+    "endPoint_coords": [32.2903518, 34.8530409]
+  },
+  {
+    "_id": "ride9",
+    "date": "2025-03-10",
+    "startTime": "08:30",
+    "endTime": "08:50",
+    "startPoint": "Derekh HaBanim, Pardes Hanna",
+    "endPoint": "Neve Hayyim, Hadera",
+    "numberOfSeats": 50,
+    "endPoint_coords": [32.4468751, 34.9077222],
+    "startPoint_coords": [32.4764174, 34.9779457]
+  },
+  {
+    "_id": "ride10",
+    "date": "2025-03-10",
+    "startTime": "08:40",
+    "endTime": "09:00",
+    "startPoint": "Bialik, Hadera",
+    "endPoint": "Givat Bilu, Hadera",
+    "numberOfSeats": 50,
+    "startPoint_coords": [32.4329799, 34.9103811],
+    "endPoint_coords": [32.4440992, 34.9240281]
+  },
+  {
+    "_id": "ride11",
+    "date": "2025-03-10",
+    "startTime": "09:00",
+    "endTime": "09:20",
+    "startPoint": "Atzmaut, Pardes Hanna",
+    "endPoint": "Bialik, Hadera",
+    "numberOfSeats": 4,
+    "endPoint_coords": [32.4329799, 34.9103811],
+    "startPoint_coords": [32.4712353, 34.9730174]
+  },
+  {
+    "_id": "ride12",
+    "date": "2025-03-10",
+    "startTime": "09:10",
+    "endTime": "09:30",
+    "startPoint": "Nahliel, Hadera",
+    "endPoint": "Bilu, Pardes Hanna",
+    "numberOfSeats": 4,
+    "startPoint_coords": [32.4446424, 34.9266889],
+    "endPoint_coords": [32.4733145, 34.9853832]
+  },
+  {
+    "_id": "ride13",
+    "date": "2025-03-10",
+    "startTime": "09:20",
+    "endTime": "09:40",
+    "startPoint": "Bilu, Pardes Hanna",
+    "endPoint": "Ben Gurion, Netanya",
+    "numberOfSeats": 4,
+    "endPoint_coords": [32.2908477, 34.8423068],
+    "startPoint_coords": [32.4733145, 34.9853832]
+  },
+  {
+    "_id": "ride14",
+    "date": "2025-03-10",
+    "startTime": "09:30",
+    "endTime": "09:50",
+    "startPoint": "Yoseftal, Hadera",
+    "endPoint": "Derekh HaBanim, Pardes Hanna",
+    "numberOfSeats": 4,
+    "startPoint_coords": [32.4367737, 34.9270303],
+    "endPoint_coords": [32.4764174, 34.9779457]
+  },
+  {
+    "_id": "ride15",
+    "date": "2025-03-10",
+    "startTime": "09:40",
+    "endTime": "10:00",
+    "startPoint": "Derekh HaBanim, Pardes Hanna",
+    "endPoint": "Efraim, Hadera",
+    "numberOfSeats": 4,
+    "endPoint_coords": [32.4378322, 34.9297876],
+    "startPoint_coords": [32.4764174, 34.9779457]
+  },
+  {
+    "_id": "ride16",
+    "date": "2025-03-10",
+    "startTime": "07:00",
+    "endTime": "07:20",
+    "startPoint": "Emek Hefer Industrial Park, Emek Hefer",
+    "endPoint": "Shlomo, Hadera",
+    "numberOfSeats": 50,
+    "endPoint_coords": [32.4323641, 34.9142005],
+    "startPoint_coords": [32.4013587, 34.89655419335027]
+  },
+  {
+    "_id": "ride17",
+    "date": "2025-03-10",
+    "startTime": "18:00",
+    "endTime": "18:20",
+    "startPoint": "Efraim, Hadera",
+    "endPoint": "Emek Hefer Industrial Park, Emek Hefer",
+    "numberOfSeats": 50,
+    "startPoint_coords": [32.4378322, 34.9297876],
+    "endPoint_coords": [32.4013587, 34.89655419335027]
+  },
+  {
+    "_id": "ride18",
+    "date": "2025-03-10",
+    "startTime": "18:10",
+    "endTime": "18:30",
+    "startPoint": "Rambam, Hadera",
+    "endPoint": "Emek Hefer Industrial Park, Emek Hefer",
+    "numberOfSeats": 4,
+    "startPoint_coords": [32.4406586, 34.9138144],
+    "endPoint_coords": [32.4013587, 34.89655419335027]
+  },
+  {
+    "_id": "ride19",
+    "date": "2025-03-10",
+    "startTime": "18:20",
+    "endTime": "18:40",
+    "startPoint": "Emek Hefer Industrial Park, Emek Hefer",
+    "endPoint": "Elram, Hadera",
+    "numberOfSeats": 14,
+    "endPoint_coords": [32.428709, 34.9145637],
+    "startPoint_coords": [32.4013587, 34.89655419335027]
+  },
+  {
+    "_id": "ride20",
+    "date": "2025-03-10",
+    "startTime": "18:30",
+    "endTime": "18:50",
+    "startPoint": "Emek Hefer Industrial Park, Emek Hefer",
+    "endPoint": "HaOtsar, Hadera",
+    "numberOfSeats": 19,
+    "endPoint_coords": [32.442665, 34.9169214],
+    "startPoint_coords": [32.4013587, 34.89655419335027]
+  }
+]
