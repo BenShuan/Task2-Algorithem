@@ -57,6 +57,7 @@ npm start
 
 ## 🧠 Design Decisions
 - **Greedy Heuristic**: Chosen for its simplicity and efficiency in handling real-time or large datasets. It prioritizes local optimal cost per ride.
+- **Easy to emplement**: There are algorithms that can find the optimal scheduling, but they are harder to implement. Therefore, I went with a simpler solution that can achieve a low cost, even if it's not the absolute minimum.
 - **External Routing API**: OSRM provides real-world distance and duration, improving accuracy over simple Haversine formula.
 - **Caching**: Distance results are cached in `distanceCache.json` to reduce redundant API requests and improve performance.
 - **Buffer Time**: A 10-minute buffer is added between rides to simulate realistic transition time.
